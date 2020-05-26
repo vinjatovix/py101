@@ -16,5 +16,6 @@
         "titleBar.border": "#373737",
         "titleBar.inactiveBackground": "#37373799",
         "titleBar.inactiveForeground": "#e7e7e799"
-    }
+    },
+    "python.pythonPath": "C:\\Users\\vinja\\anaconda3\\python.exe"
 }
